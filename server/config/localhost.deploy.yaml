@@ -1,0 +1,21 @@
+url: 'http://localhost/bloc/v2.2'
+admin:
+  name: Admin_3368_78710
+  password: '7890'
+  address: 0e411c09e32f8269db2ac939a83e4c2009f94f6b
+contract:
+  name: AdminInterface
+  address: d2653f939797f727f41f317ad07a4517a4e9a201
+users:
+  - username: Supplier1
+    password: '1234'
+    role: SUPPLIER
+  - username: Supplier2
+    password: '1234'
+    role: SUPPLIER
+  - username: Buyer1
+    password: '1234'
+    role: BUYER
+  - username: Buyer2
+    password: '1234'
+    role: BUYER
